@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45994d5cf79353f44b0d3c683ad8e7f6, type: 3}
+  m_Name: player_inventoryMain
+  m_EditorClassIdentifier: 
+  database: {fileID: 11400000, guid: b07c05faf7bc1aa48bc28584245cba4c, type: 2}
+  Container:
+    Items:
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 0
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 1
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 2
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 3
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 4
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 5
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 6
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 7
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 8
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 9
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 10
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        Name: 
+        type: 0
+        slotNumber: 11
+        Id: -1
+        buffs: []
+      amount: 0
+      slotNumber: -1
+  inventoryToolbar: {fileID: 11400000, guid: 1433533142e8231448f37a8dbd5d4f3c, type: 2}
+  inventoryMain: {fileID: 11400000}
+  inventoryEquipment: {fileID: 11400000, guid: dfc444edefc117f498629d24a97e0a25, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23071db4b4fe1434993b2cd91b6d2b72, type: 3}
+  m_Name: item_food_cheese
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 21300000, guid: 039c9283e87d80c4584f2e358a1bc4a0, type: 3}
+  stackable: 1
+  type: 4
+  description: Sharp, yet tasty, cheese.
+  data:
+    Name: 
+    type: 4
+    Id: 3
+    buffs: []
